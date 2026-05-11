@@ -1,4 +1,4 @@
-@MiApi_HostAddress = http://localhost:5106
+@MiApi_HostAddress = http://localhost:5147
 
 GET {{MiApi_HostAddress}}/weatherforecast/
 Accept: application/json
