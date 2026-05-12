@@ -9,13 +9,10 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.7" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="10.0.2" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Areas\PublicArea\Controllers\" />
-    <Folder Include="Areas\PublicArea\Data\" />
-    <Folder Include="Areas\PublicArea\Models\" />
-    <Folder Include="Areas\PublicArea\Views\" />
+    <PackageReference Include="NuGet.Packaging" Version="7.3.1" />
+    <PackageReference Include="NuGet.Protocol" Version="7.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="10.1.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.1.7" />
   </ItemGroup>
 
 </Project>

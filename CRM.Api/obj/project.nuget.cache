@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s/NlXyTyVbI=",
+  "dgSpecHash": "VOL6nGenJV0=",
   "success": true,
   "projectFilePath": "C:\\Users\\mouimi\\Desktop\\Grado S\\proyectos\\CRM\\Repository\\CRM\\CRM.Api\\CRM.Api.csproj",
   "expectedPackageFiles": [
@@ -78,7 +78,7 @@
     "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.2\\microsoft.entityframeworkcore.relational.10.0.2.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.2\\microsoft.extensions.dependencymodel.10.0.2.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.net.stringtools\\17.11.48\\microsoft.net.stringtools.17.11.48.nupkg.sha512",
-    "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.visualstudio.solutionpersistence\\1.0.52\\microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\10.0.2\\microsoft.visualstudio.web.codegeneration.10.0.2.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\10.0.2\\microsoft.visualstudio.web.codegeneration.core.10.0.2.nupkg.sha512",
@@ -89,15 +89,18 @@
     "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\10.0.2\\microsoft.visualstudio.web.codegenerators.mvc.10.0.2.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.common\\6.12.1\\nuget.common.6.12.1.nupkg.sha512",
-    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.configuration\\6.12.1\\nuget.configuration.6.12.1.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.common\\7.3.1\\nuget.common.7.3.1.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.configuration\\7.3.1\\nuget.configuration.7.3.1.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\nuget.dependencyresolver.core\\6.12.1\\nuget.dependencyresolver.core.6.12.1.nupkg.sha512",
-    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.frameworks\\6.12.1\\nuget.frameworks.6.12.1.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.frameworks\\7.3.1\\nuget.frameworks.7.3.1.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\nuget.librarymodel\\6.12.1\\nuget.librarymodel.6.12.1.nupkg.sha512",
-    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.packaging\\6.12.1\\nuget.packaging.6.12.1.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.packaging\\7.3.1\\nuget.packaging.7.3.1.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\nuget.projectmodel\\6.12.1\\nuget.projectmodel.6.12.1.nupkg.sha512",
-    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.protocol\\6.12.1\\nuget.protocol.6.12.1.nupkg.sha512",
-    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.versioning\\6.12.1\\nuget.versioning.6.12.1.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.protocol\\7.3.1\\nuget.protocol.7.3.1.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\nuget.versioning\\7.3.1\\nuget.versioning.7.3.1.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\system.composition\\9.0.0\\system.composition.9.0.0.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\system.composition.attributedmodel\\9.0.0\\system.composition.attributedmodel.9.0.0.nupkg.sha512",
@@ -108,33 +111,8 @@
     "C:\\Users\\mouimi\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\system.reflection.metadataloadcontext\\8.0.0\\system.reflection.metadataloadcontext.8.0.0.nupkg.sha512",
-    "C:\\Users\\mouimi\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.4\\system.security.cryptography.pkcs.6.0.4.nupkg.sha512",
+    "C:\\Users\\mouimi\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
     "C:\\Users\\mouimi\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1901",
-      "level": "Warning",
-      "message": "El paquete \"NuGet.Packaging\" 6.12.1 tiene una vulnerabilidad de gravedad baja conocida, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\mouimi\\Desktop\\Grado S\\proyectos\\CRM\\Repository\\CRM\\CRM.Api\\CRM.Api.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\mouimi\\Desktop\\Grado S\\proyectos\\CRM\\Repository\\CRM\\CRM.Api\\CRM.Api.csproj",
-      "libraryId": "NuGet.Packaging",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1901",
-      "level": "Warning",
-      "message": "El paquete \"NuGet.Protocol\" 6.12.1 tiene una vulnerabilidad de gravedad baja conocida, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\mouimi\\Desktop\\Grado S\\proyectos\\CRM\\Repository\\CRM\\CRM.Api\\CRM.Api.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\mouimi\\Desktop\\Grado S\\proyectos\\CRM\\Repository\\CRM\\CRM.Api\\CRM.Api.csproj",
-      "libraryId": "NuGet.Protocol",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    }
-  ]
+  "logs": []
 }
