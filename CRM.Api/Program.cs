@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using CRM.Api.Areas.Identity.Data;
+using CRM.Model.Identity;
 
 namespace CRM.Api
 {
