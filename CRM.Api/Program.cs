@@ -1,3 +1,4 @@
+using CRM.DataAccess;
 using CRM.Model.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,7 +13,7 @@ namespace CRM.Api
 
             builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
 
-            builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
+  
 
             // Add services to the container.
 

@@ -1,0 +1,16 @@
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\bin\Debug\net10.0\CRM.Model.deps.json
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\bin\Debug\net10.0\CRM.Model.dll
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\bin\Debug\net10.0\CRM.Model.pdb
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\bin\Debug\net10.0\CRM.Utility.dll
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\bin\Debug\net10.0\CRM.Utility.pdb
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\CRM.Model.csproj.AssemblyReference.cache
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\CRM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\CRM.Model.AssemblyInfoInputs.cache
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\CRM.Model.AssemblyInfo.cs
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\CRM.Model.csproj.CoreCompileInputs.cache
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\CRM.Model.sourcelink.json
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\CRM.Model.csproj.Up2Date
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\CRM.Model.dll
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\refint\CRM.Model.dll
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\CRM.Model.pdb
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Model\obj\Debug\net10.0\ref\CRM.Model.dll
