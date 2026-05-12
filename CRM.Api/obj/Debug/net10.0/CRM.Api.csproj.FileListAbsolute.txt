@@ -236,3 +236,6 @@ C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Api\obj\Debug\n
 C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Api\obj\Debug\net10.0\CRM.Api.pdb
 C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Api\obj\Debug\net10.0\CRM.Api.genruntimeconfig.cache
 C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Api\obj\Debug\net10.0\ref\CRM.Api.dll
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CRM.Api.Areas.PublicArea.Controllers.PublicController",
+    "Method": "Get",
+    "RelativePath": "api/PublicArea/Public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

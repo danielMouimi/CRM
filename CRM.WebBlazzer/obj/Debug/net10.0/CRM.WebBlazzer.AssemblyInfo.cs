@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRM.WebBlazzer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84f52e6b58719f4c613ef22abbae3240e9099ce4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0250645576c15ceaf3718158ee10d0faad4b91f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRM.WebBlazzer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRM.WebBlazzer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

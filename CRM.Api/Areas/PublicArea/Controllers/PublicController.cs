@@ -11,7 +11,7 @@ namespace CRM.Api.Areas.PublicArea.Controllers
     public class PublicController : ControllerBase
     {
         [HttpGet]
-        public IActionResult get()
+        public IActionResult Get()
         {
             return Ok("Hello from public area");
         }
