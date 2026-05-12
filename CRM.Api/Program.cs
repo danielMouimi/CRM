@@ -1,6 +1,5 @@
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
 using CRM.Model.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace CRM.Api
 {
@@ -9,7 +8,7 @@ namespace CRM.Api
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            var connectionString = builder.Configuration.GetConnectionString("ApplicationDbContextConnection") ?? throw new InvalidOperationException("Connection string 'ApplicationDbContextConnection' not found.");;
+            var connectionString = builder.Configuration.GetConnectionString("ApplicationDbContextConnection") ?? throw new InvalidOperationException("Connection string 'ApplicationDbContextConnection' not found."); ;
 
             builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
 
@@ -22,7 +21,7 @@ namespace CRM.Api
             builder.Services.AddOpenApi();
             builder.Services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Microsoft.OpenApi.OpenApiInfo { Title = "CRM API", Version = "v1"});
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.OpenApiInfo { Title = "CRM API", Version = "v1" });
             });
             var app = builder.Build();
 
@@ -30,7 +29,7 @@ namespace CRM.Api
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
-                app.UseSwaggerUI(c =>  c.SwaggerEndpoint("/swagger/v1/swagger.json", "CRM API V1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CRM API V1"));
             }
 
             app.UseHttpsRedirection();
@@ -41,7 +40,7 @@ namespace CRM.Api
             app.MapControllerRoute(
                 name: "areas",
                 pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
-            ); 
+            );
 
             app.Run();
         }
