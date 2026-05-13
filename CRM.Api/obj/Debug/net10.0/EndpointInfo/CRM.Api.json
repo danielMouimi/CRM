@@ -1,0 +1,27 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "CRM API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/PublicArea/Public": {
+      "get": {
+        "tags": [
+          "Public"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { },
+  "tags": [
+    {
+      "name": "Public"
+    }
+  ]
+}

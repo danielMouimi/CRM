@@ -1,0 +1,12 @@
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\bin\Debug\net10.0\CRM.Utility.deps.json
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\bin\Debug\net10.0\CRM.Utility.dll
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\bin\Debug\net10.0\CRM.Utility.pdb
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\obj\Debug\net10.0\CRM.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\obj\Debug\net10.0\CRM.Utility.AssemblyInfoInputs.cache
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\obj\Debug\net10.0\CRM.Utility.AssemblyInfo.cs
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\obj\Debug\net10.0\CRM.Utility.csproj.CoreCompileInputs.cache
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\obj\Debug\net10.0\CRM.Utility.sourcelink.json
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\obj\Debug\net10.0\CRM.Utility.dll
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\obj\Debug\net10.0\refint\CRM.Utility.dll
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\obj\Debug\net10.0\CRM.Utility.pdb
+C:\Users\mouimi\Desktop\Grado S\proyectos\CRM\Repository\CRM\CRM.Utility\obj\Debug\net10.0\ref\CRM.Utility.dll
