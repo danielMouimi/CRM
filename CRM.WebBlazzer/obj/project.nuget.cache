@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uQKc3GAciOU=",
+  "dgSpecHash": "iyQD04DKm94=",
   "success": true,
   "projectFilePath": "C:\\Users\\mouimi\\Desktop\\Grado S\\proyectos\\CRM\\Repository\\CRM\\CRM.WebBlazzer\\CRM.WebBlazzer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.7\\microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512"
+    "C:\\Users\\mouimi\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.8\\microsoft.aspnetcore.app.internal.assets.10.0.8.nupkg.sha512"
   ],
   "logs": []
 }

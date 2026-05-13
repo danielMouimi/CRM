@@ -1,6 +1,7 @@
 using CRM.DataAccess;
 using CRM.Model.Identity;
 using Microsoft.EntityFrameworkCore;
+using System.Diagnostics;
 
 namespace CRM.Api
 {
@@ -31,6 +32,13 @@ namespace CRM.Api
             {
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CRM API V1"));
+
+                var url = "https://localhost:7179/swagger";
+                Process.Start(new ProcessStartInfo
+                {
+                    FileName = url,
+                    UseShellExecute = true
+                });
             }
 
             app.UseHttpsRedirection();
